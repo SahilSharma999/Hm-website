@@ -1,2 +1,2 @@
 # Hm-website
-Hm cloning
+HM cloning using html , css , js , React , Tailwindcss
